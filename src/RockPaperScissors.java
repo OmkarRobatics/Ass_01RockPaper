@@ -8,7 +8,7 @@ public class RockPaperScissors {
         boolean range = false; // var to check if value is valid
         boolean range2 = false; // var to check if value is valid
         boolean range3 = true; // var to check if value is valid
-        String yesOrNo = "";
+        String yesOrNo = ""; //restart program
         boolean done = false;
 
         Scanner in = new Scanner(System.in); // sets up scanner class
